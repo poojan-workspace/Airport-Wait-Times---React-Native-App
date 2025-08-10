@@ -31,14 +31,6 @@ Built with **React Native & Expo** for a smooth mobile experience, integrated wi
 
 ---
 
-## 📸 Screenshots
-
-| Home Screen | Airport Map | Alerts |
-|-------------|-------------|--------|
-| ![Home](docs/screenshots/home.png) | ![Map](docs/screenshots/map.png) | ![Alerts](docs/screenshots/alerts.png) |
-
----
-
 ## 📦 Installation & Setup
 
 ### Prerequisites
