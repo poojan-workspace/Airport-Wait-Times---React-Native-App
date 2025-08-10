@@ -1,4 +1,4 @@
-# ✈️ Airport Security Wait Times Mobile Application - (_In Progress_)
+# ✈️ Airport Security Wait Times - (_In Progress_)
 
 A modern, cross-platform mobile app that helps travelers check **real-time TSA security wait times** at airports across the United States — so you can plan your arrival and skip unnecessary stress.  
 
